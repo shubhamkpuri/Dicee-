@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">Dice App</string>
     <string name="button_text">Roll Dice</string>
-    <string name="first">First Dice</string>
-    <string name="second">Second Dice</string>
+    <string name="first">Left Dice</string>
+    <string name="second">Right Dice</string>
+    <string name="Player1">0</string>
+    <string name="Player2">0</string>
+    <string name="Owner">Made By Shubham</string>
+    <string name="logo">This is game Logo</string>
+
 
 </resources>
